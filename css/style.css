@@ -1,0 +1,5 @@
+/* Reset default broswer padding and margin */
+* {
+    margin: 0;
+    padding: 0;
+}
