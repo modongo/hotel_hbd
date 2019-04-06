@@ -2,7 +2,7 @@
 
 #### This is a landing page for hotel HBD. This project serves the purpose of making my coding skills in HTML, CSS  known to people around the world. This is currently the only version of the website created.
 
-![](https://github.com/modongo/fictional-restaurant/blob/master/images/core.jpg)
+![](https://github.com/modongo/hotel_hbd/blob/master/img/Hotel-HBD.PNG)
 
 #### By **Michael Odongo**
 
@@ -26,7 +26,7 @@ This website is a landing page of Hotel HBD. This has been implemented based on 
 
 # clone into repository
 
-$ git clone https://github.com/modongo/fiction-restaurant.git
+$ git clone https://github.com/modongo/hotel_hbd.git
 
 # Open using your favorite editor and view the code or just open the index.html on the browser
 ```
@@ -43,7 +43,7 @@ Technlogy used during the development of this website is  HTML5, CSS, Boostrap4,
 
 Incase of any issues or feedback please add using any of below links.
 
-* [Issues](https://github.com/modongo/fictional-restaurant/issues). To submit any issues.
+* [Issues](https://github.com/modongo/hotel_hbd/issues). To submit any issues.
 
 * [Tweet](https://twitter.com/mikodongo) for any other feedback.
 
@@ -53,7 +53,7 @@ Incase of any issues or feedback please add using any of below links.
 
 ### live site link
 
-<https://modongo.github.io/fictional-restaurant/>
+<https://modongo.github.io/hotel_hbd/>
 
 ### license
 
